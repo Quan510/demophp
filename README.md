@@ -16,12 +16,19 @@
 # Giao diện sản phẩm
 
 ### Trang Admin
-![trang sản phẩm](imgs/2323.jpg)
-![Dang nhap](imgs/2424.jpg)
+#### Giao diện trang admin
+![2323](https://github.com/Quan510/demophp/assets/136159061/c6b3b93a-1d7e-4841-8992-4e696b45a670)
+#### Giao diện đăng nhập
+![2424](https://github.com/Quan510/demophp/assets/136159061/a51f43f5-b953-431b-bbda-c7f8bbd6087d)
+
 ### Trang chủ 
-![trang chủ](imgs/2222.jpg)
-![Đăng kí](imgs/5.jpg)
-![Giỏ hàng](imgs/3.jpg)
+
+#### Giao diện trang chủ
+![2222](https://github.com/Quan510/demophp/assets/136159061/408f8435-79f5-450a-a194-8040510d26e3)
+#### Giao diện trang đăng kí
+![5](https://github.com/Quan510/demophp/assets/136159061/ad02aa92-bdc2-45ff-8ef4-9283c9e38b29)
+#### Giao diện trang thanh toán
+![3](https://github.com/Quan510/demophp/assets/136159061/34fbe11c-a780-46be-a397-7fd10db046e8)
 
 
 _________________________________________
